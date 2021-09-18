@@ -1,3 +1,3 @@
 # Coding-ninjas
-java - problems
+Android - development.
 Containing all solutions of coding ninjas in java
